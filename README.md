@@ -1,2 +1,3 @@
 # EDA-Sugarcane
-By analyzing this dataset, the project aims to uncover patterns and regional differences that could inform better agricultural planning and resource allocation.
+This repository includes the code, detailed findings, and visualizations that highlight the core insights derived from the data.It contains Python scripts and Jupyter notebooks used for data cleaning, analysis, providing a comprehensive framework for replicating the study.
+
